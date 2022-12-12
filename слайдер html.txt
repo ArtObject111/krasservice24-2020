@@ -1,0 +1,54 @@
+﻿<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8-BOM">
+  <meta name="keywords" content="автомобили, двигатели, починка">
+  <meta name="description" content="этот сайт нужен для донесения информации">
+  <meta content="">
+  <link href="css/style.css" rel="stylesheet" type="text/css" />
+  <script type="text/javascript" src="js/engine.js"></script>
+  <link href="img/love.png" rel="shortcut icon" type="image/x-icon"/>
+  <title>Чистка ГБЦ WSB в Красноярске</title>
+</head>
+
+<body>
+<div class="all">
+   <input cheaked type="radio" name="respond" id="desktop">
+      <article id="slider">
+          <input cheaked type="radio" name="slider" id="switch1">
+          <input type="radio" name="slider" id="switch2">
+          <input type="radio" name="slider" id="switch3">
+          <input type="radio" name="slider" id="switch4">
+          <input type="radio" name="slider" id="switch5">
+
+          <div id="slides">
+              <div id="overflow">
+                  <div class="image">
+                      <article class=""><img src="img/1.jpg"></article>
+                      <article class=""><img src="img/2.jpg"></article>
+                      <article class=""><img src="img/3.jpg"></article>
+                      <article class=""><img src="img/4.jpg"></article>
+                      <article class=""><img src="img/5.jpg"></article>
+                  </div>
+              </div>
+          </div>
+          <div id="controls"><!-- управляющие кнопоки -->
+              <label for="switch1"></label>
+              <label for="switch2"></label>
+              <label for="switch3"></label>
+              <label for="switch4"></label>
+              <label for="switch5"></label>
+          </div>
+
+          <div id="active"><!-- декорирование управляющих кнопок -->
+              <label for="switch1"></label>
+              <label for="switch2"></label>
+              <label for="switch3"></label>
+              <label for="switch4"></label>
+              <label for="switch5"></label>
+          </div>
+
+      </article>
+</div>
+</body>
+</html>

@@ -1,0 +1,5 @@
+  <div class="myClass">
+            <img src="http://placehold.it/200x150" />
+            <img src="http://placehold.it/200x150" />
+            <img src="http://placehold.it/200x150" />
+        </div>

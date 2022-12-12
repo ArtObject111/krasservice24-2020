@@ -1,0 +1,40 @@
+@keyframes pulse {
+
+  14%{
+    transform: translateY(-350px);
+  }
+
+  29%{
+    transform: translateY(-350px);
+  }
+
+  43%{
+    transform: translateY(-700px);
+  }
+
+  57%{
+    transform: translateY(-700px);
+  }
+
+  72%{
+    transform: translateY(-1050px);
+  }
+
+  86%{
+    transform: translateY(-1050px);
+  }
+
+  100%{
+    transform: translateY(-1400px);
+  }
+}
+
+@keyframes FadeIn {
+
+  60%{
+    transform: translateY(-1050px);
+  }
+  100%{
+    transform: translateY(-1050px);
+  }
+}
